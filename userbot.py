@@ -19,7 +19,7 @@ asyncio.set_event_loop(asyncio.new_event_loop())
 # ----------------- CONFIG -----------------
 API_ID = 30191201   
 API_HASH = "5c87a8808e935cc3d97958d0bb24ff1f"
-OWNER_ID = 7207967584        
+OWNER_ID = 8763879785   
 SESSION_NAME = "userbot.session"
 MUTED_FILE = "muted.json"
 # ------------------------------------------
